@@ -356,6 +356,9 @@ nav li {
 }
 .venue-map {
   height: 264px;
+  margin-bottom: 50px;
+  vertical-align: top;
+
 }
 /*
   ========================================
